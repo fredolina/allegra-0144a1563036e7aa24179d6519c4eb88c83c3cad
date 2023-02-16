@@ -157,7 +157,7 @@ return [
     'providers' => [
 
         /*
-         * Laravel Framework Service Providers...
+         * Laravel Framework Service Providers... C:\Users\Freda\Downloads\allegra-0144a1563036e7aa24179d6519c4eb88c83c3cad\allegra-0144a1563036e7aa24179d6519c4eb88c83c3cad
          */
         Illuminate\Auth\AuthServiceProvider::class,
         Illuminate\Broadcasting\BroadcastServiceProvider::class,
@@ -183,6 +183,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider::class,
         Laravel\Sail\SailServiceProvider::class,
+        
 
         /*
          * Package Service Providers...

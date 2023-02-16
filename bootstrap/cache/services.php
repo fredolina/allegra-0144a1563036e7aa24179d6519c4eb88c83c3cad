@@ -34,10 +34,12 @@
     30 => 'OwenVoke\\BladeEntypo\\BladeEntypoServiceProvider',
     31 => 'OwenVoke\\BladeFontAwesome\\BladeFontAwesomeServiceProvider',
     32 => 'Spatie\\LaravelIgnition\\IgnitionServiceProvider',
-    33 => 'App\\Providers\\AppServiceProvider',
-    34 => 'App\\Providers\\AuthServiceProvider',
-    35 => 'App\\Providers\\EventServiceProvider',
-    36 => 'App\\Providers\\RouteServiceProvider',
+    33 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
+    34 => 'Laravel\\Sail\\SailServiceProvider',
+    35 => 'App\\Providers\\AppServiceProvider',
+    36 => 'App\\Providers\\AuthServiceProvider',
+    37 => 'App\\Providers\\EventServiceProvider',
+    38 => 'App\\Providers\\RouteServiceProvider',
   ),
   'eager' => 
   array (
@@ -60,10 +62,11 @@
     16 => 'OwenVoke\\BladeEntypo\\BladeEntypoServiceProvider',
     17 => 'OwenVoke\\BladeFontAwesome\\BladeFontAwesomeServiceProvider',
     18 => 'Spatie\\LaravelIgnition\\IgnitionServiceProvider',
-    19 => 'App\\Providers\\AppServiceProvider',
-    20 => 'App\\Providers\\AuthServiceProvider',
-    21 => 'App\\Providers\\EventServiceProvider',
-    22 => 'App\\Providers\\RouteServiceProvider',
+    19 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
+    20 => 'App\\Providers\\AppServiceProvider',
+    21 => 'App\\Providers\\AuthServiceProvider',
+    22 => 'App\\Providers\\EventServiceProvider',
+    23 => 'App\\Providers\\RouteServiceProvider',
   ),
   'deferred' => 
   array (
