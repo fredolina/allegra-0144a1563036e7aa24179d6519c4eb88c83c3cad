@@ -182,6 +182,7 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
         NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider::class,
+        Laravel\Sail\SailServiceProvider::class,
 
         /*
          * Package Service Providers...
